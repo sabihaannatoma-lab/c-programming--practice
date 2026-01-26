@@ -17,5 +17,10 @@ Maintain a consistent GitHub portfolio
 How to run:
 Clone the repository 
 Navigate to the folder
-
-
+# My C programing projects 
+## Sum series
+Calculate the sum of numbers from 1 to N using a for loop
+Prompts the user to enter a number N
+computes 1+2+3+.........+N
+Displays the result on the screen
+**File:** sum_series.c
