@@ -24,7 +24,13 @@ Prompts the user to enter a number N
 computes 1+2+3+.........+N
 Displays the result on the screen
 **File:** sum_series.c
-# Array practice in C
-This folder contains beginner level C programs to practice arrays.
-## Programs Include
-**oneD_sum.c** - Calculates the sum of all elements in a one dimensioanl array
+
+# C Program Practice
+## Level 1: Array Programs
+   1. Array Input/Output
+   2.Average of Array
+   3.Maximum Element
+   4.Minimum Element 
+   5.Sum of Array
+
+
