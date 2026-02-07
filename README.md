@@ -1,18 +1,16 @@
+# 💻 C Programming Practice
 
-# C Foundation
-## About 
-A Pre- university student building strong fundamentals in C programming and problem solving.
+This repository contains my daily practice codes and logic-building exercises in C.
 
-## Topic covered 
-Basics of C 
-Loop 
-Arrays
-Functions
+###  Core Logic Programs
+| Program Name | Description | Source Code |
+| :--- | :--- | :--- |
+| ** Palindrome** | Checks if a number is a palindrome. | [View Code](./palindrome.c) |
+| ** Prime Number** | Logic to verify prime numbers. | [View Code](./prime.c) |
+| ** Fibonacci** | Generates Fibonacci series up to N. | [View Code](./fibonacci.c) |
 
-## Mini projects
-Menu-driven Calculator.
-
-## Focus
-Writing clean, well-structured C programing and maintaining consistent GitHub practice.
-
+### 🛠️ Topics Covered
+- C Syntax & Data Types
+- Control Flow (If-Else, Loops)
+- Basic Number Theory
 
