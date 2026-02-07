@@ -15,7 +15,7 @@ This repository contains my daily practice codes and logic-building exercises in
 | ** Matrix Addition** | Logic to add two 2D matrices. | [View Code](./Addition_of_2D_array.c) |
 | ** Array Searching** | Searching for a specific element in an array. | [View Code](./searching_from_array.c) |
 | ** Max & Min** | Finding the largest and smallest number in an array. | [View Code](./Find_large_and_small_num_from_array.c) |
-
+| **🔡 String Reverse** | Reverses a given string without using strrev(). | [View Code](./string_reverse.c) |
 ###  Topics Covered
 - C Syntax & Data Types
 - Control Flow (If-Else, Loops)
