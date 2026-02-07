@@ -16,6 +16,7 @@ This repository contains my daily practice codes and logic-building exercises in
 | ** Array Searching** | Searching for a specific element in an array. | [View Code](./searching_from_array.c) |
 | ** Max & Min** | Finding the largest and smallest number in an array. | [View Code](./Find_large_and_small_num_from_array.c) |
 | ** String Reverse** | Reverses a given string without using strrev(). | [View Code](./string_reverse.c) |
+| ** Calculator** | Simple math using own functions (jog, biyog, etc). | [View Code](./calculator_functions.c) |
 ###  Topics Covered
 - C Syntax & Data Types
 - Control Flow (If-Else, Loops)
